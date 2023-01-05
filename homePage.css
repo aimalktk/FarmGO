@@ -1,0 +1,129 @@
+body{
+    background-color: rgb(145, 250, 145) !important;
+    background-image: url("./Icons/background1.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    /* height: 50em; */
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+
+}
+.logoHead{
+    justify-content: center !important;
+}
+.navbarFlex{
+    display: flex;
+}
+.signupButton{
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+.margin30px{
+    margin-right: 30px;
+}
+.flex2{
+    flex: 2;
+}
+.flex3{
+    flex: 3;
+    display: flex;
+    align-items: center;
+}
+.flex1{
+    flex: 1;
+}
+.flex5{
+    flex: 5;
+    display: flex;
+    align-items: center;
+}
+.colorblack{
+    color: black !important;
+}
+.colorblack:hover{
+    color: #0038FF !important;
+}
+.buttonHeight{
+    height: 40px;
+}
+.colorblue{
+    color: #0038FF !important ;
+}
+.colorLogin{
+    background-color:#ACA7A5 !important;
+    color: white !important;
+    margin-right: 20px;
+    border-radius: 40px !important;
+    
+
+}
+.colorLogin:hover{
+    background-color:#87817f !important;
+}
+
+.colorsignUp{
+    background-color: #FF7033 !important;
+    color: white !important;
+    margin-right: 15px;
+    border-radius: 40px !important;
+
+}
+.colorsignUp:hover{
+    background-color: #ca5320 !important;
+}
+.downbutton:hover{
+    background-color: #ca5320 !important;
+}
+.marginbutton{
+    margin-left: 10px !important;
+    width: 80px !important; 
+}
+.btngroup{
+    position: relative;
+    vertical-align: middle;
+}
+.a-signup{
+    text-decoration: none;
+    color: white !important;
+}
+.fonth1{
+    font-weight:475px;
+    margin-left: 40px;;
+}
+.fonth2{
+    font-weight:420px;
+    margin-left: 40px;
+}
+.fontspan{
+    font-weight:700;
+}
+.padding40{
+    padding: 40px;
+}
+.flexcol{
+    display: flex !important;
+}
+.flexdir{
+    flex-direction: column;
+    align-items: flex-end;
+}
+.margin90{
+    margin-right: 90px;
+}
+.downbutton{
+    background-color: #FF7033 !important;
+    margin-top: 60px;
+    margin-left: 120px;
+    color: white !important;
+    border-radius: 40px !important;
+}
+.bgimage::after{
+    position: relative;
+    height: 50%;
+    width: 50%;
+}

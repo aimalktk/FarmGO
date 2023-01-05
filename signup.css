@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(145, 250, 145) !important;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+
+}
+.logoHead{
+    justify-content: center !important;
+}
+.navbarFlex{
+    display: flex;
+}
+.signupButton{
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+.flex2{
+    flex: 2;
+}
+.flex3{
+    flex: 3;
+    display: flex;
+    align-items: center;
+}
+.flex1{
+    flex: 1;
+}
+.flex5{
+    flex: 5;
+    display: flex;
+    align-items: center;
+}
+.aligncenter{
+    margin-left: -23spx;
+    align-items:center;
+}
+.colorblack{
+    color: black !important;
+}
+.colorblack:hover{
+    color: #0038FF !important;
+}
+.buttonHeight{
+    height: 40px;
+}
+.colorblue{
+    color: #0038FF !important ;
+}
+.colorLogin{
+    background-color:#ad5a39 !important;
+    color: white !important;
+    margin-right: 20px;
+    border-radius: 40px !important;
+    
+
+}
+.colorLogin:hover{
+    background-color:#943d21 !important;
+}
+.colorRegister{
+    background-color:#FF7A00 !important;
+    color: white !important;
+    margin-top: 5%;
+    margin-left: 50%;
+    border-radius: 40px !important;
+    
+
+}
+.colorRegister:hover{
+    background-color:#9c4b00 !important;
+}
+.downbutton:hover{
+    background-color: #ca5320 !important;
+}
+.marginbutton{
+    margin-left: 10px !important;
+    width: 80px !important; 
+}
+.btngroup{
+    position: relative;
+    vertical-align: middle;
+}
+.h1font{
+    color:#3BBA00;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap !important;
+    justify-content: center;
+}
+.flex{
+    display: flex;
+
+}
+.flex10{
+    flex: 9;
+}
+.line1{
+    display: flex;
+    flex: 1;
+}
+.linehr{
+    display: flex;
+    border-bottom: 1px solid black;
+    transform: rotate(90deg);
+    flex: 1;
+    align-items: center;
+}
+.a-signup{
+    text-decoration: none;
+    color: white !important;
+}
+hr{
+    transform: rotate(90deg);
+}
+.flexcol{
+    flex-direction: column;
+}
+input{
+    width: 70%;
+    margin-top:0.5rem !important;
+}
+.margin5{
+    margin-top: 0.82rem;
+}
