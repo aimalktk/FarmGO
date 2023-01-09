@@ -101,6 +101,7 @@ body {
 .flexDir {
   flex-direction: row;
   align-items: center;
+  justify-content: space-around;
 }
 .flex10 {
   flex: 9;
@@ -138,8 +139,11 @@ input {
   font-weight: 700;
 }
 .top {
-    position: absolute;
-    left: 13%;
-    top: 35%;
-    z-index: 1;
+  position: absolute;
+  left: 13%;
+  top: 35%;
+  z-index: 1;
 }
+.bottom {
+  mix-blend-mode: overlay;
+  }
