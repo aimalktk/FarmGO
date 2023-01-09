@@ -1,10 +1,9 @@
 body{
     background-color: rgb(145, 250, 145) !important;
-    background-image: url("./Icons/background1.jpeg") ;
+    background-image: url("./Icons/transparentbg.png") ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
-    /* height: 50em; */
 }
 .logo{
     width: 60px;
